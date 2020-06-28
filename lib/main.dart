@@ -233,7 +233,6 @@ class _MyHomePageState extends State<MyHomePage> {
           style: TextStyle(
             fontSize: 18,
           ),), 
-          subtitle: Text(deviceList[index].peripheral.identifier),
           trailing: Text("${deviceList[index].rssi}",
           style: TextStyle(
             fontSize: 18,
