@@ -8,6 +8,6 @@
 
 --> This app is mainly works on RSSI value of bluetooth device 
 
--->This app is build in flutter hackathon #hack20
+#hack20
 
 
