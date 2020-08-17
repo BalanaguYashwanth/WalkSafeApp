@@ -6,8 +6,8 @@
 
 -->If they are far my app won't trigger any notification.
 
---> This app is mainly works on RSSI value of bluetooth device 
+--> This app is mainly works on RSSI value of bluetooth device and this app is made in flutter
 
-#hack20
+Represented in  flutter hackathon #hack20
 
 
