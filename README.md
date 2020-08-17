@@ -8,7 +8,7 @@
 
 -->This app is mainly works on RSSI value of bluetooth device and this app is made in flutter
 
-### Motive of this WalkSafeApp is to reduce the spreading COVID19 
+### Motive of this WalkSafeApp is to reduce the spreading COVID-19 
 
 Represented in  flutter hackathon #hack20
 
