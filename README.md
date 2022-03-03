@@ -1,4 +1,4 @@
-# WalkSafeApp 
+# Why WalkSafeApp 
 
 -->when the one or more persons is ON the bluetooth in their smartphone device and installed my app. when they come near (below 5meters) it will automatically trigger notification.
 
